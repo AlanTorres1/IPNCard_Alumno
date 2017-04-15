@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IPNCard_Alumno</string>
+
+    <string-array name="item">
+        <item>Comprado</item>
+        <item>Cancelado</item>
+
+    </string-array>
+</resources>
